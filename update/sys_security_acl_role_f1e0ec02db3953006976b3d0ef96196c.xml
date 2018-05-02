@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>nikhil.bendre</sys_created_by>
+        <sys_created_on>2018-05-02 05:46:30</sys_created_on>
+        <sys_id>f1e0ec02db3953006976b3d0ef96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_stock_inform_transactions.x_snc_stock_inform.transactions_user</sys_name>
+        <sys_package display_value="Stock Information" source="x_snc_stock_inform">f4ffdccedbf553006976b3d0ef961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stock Information">f4ffdccedbf553006976b3d0ef961914</sys_scope>
+        <sys_security_acl display_value="x_snc_stock_inform_transactions">b9e0ec02db3953006976b3d0ef961969</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f1e0ec02db3953006976b3d0ef96196c</sys_update_name>
+        <sys_updated_by>nikhil.bendre</sys_updated_by>
+        <sys_updated_on>2018-05-02 05:46:30</sys_updated_on>
+        <sys_user_role display_value="x_snc_stock_inform.transactions_user" name="x_snc_stock_inform.transactions_user">ade0ec02db3953006976b3d0ef961923</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

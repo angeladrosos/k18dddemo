@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Transactions</name>
+        <order/>
+        <roles>x_snc_stock_inform.transactions_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>nikhil.bendre</sys_created_by>
+        <sys_created_on>2018-05-02 05:46:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71e0ec02db3953006976b3d0ef96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transactions</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Stock Information" source="x_snc_stock_inform">f4ffdccedbf553006976b3d0ef961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stock Information">f4ffdccedbf553006976b3d0ef961914</sys_scope>
+        <sys_update_name>sys_ui_application_71e0ec02db3953006976b3d0ef96194d</sys_update_name>
+        <sys_updated_by>nikhil.bendre</sys_updated_by>
+        <sys_updated_on>2018-05-02 05:46:29</sys_updated_on>
+    </sys_ui_application>
+</record_update>
