@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Application Admin Role </description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_stock_inform.app_admin</name>
+        <scoped_admin>true</scoped_admin>
+        <suffix>app_admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>nikhil.bendre</sys_created_by>
+        <sys_created_on>2018-05-02 06:07:53</sys_created_on>
+        <sys_id>7db56486db3953006976b3d0ef9619d3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_stock_inform.app_admin</sys_name>
+        <sys_package display_value="Stock Information" source="x_snc_stock_inform">f4ffdccedbf553006976b3d0ef961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Stock Information">f4ffdccedbf553006976b3d0ef961914</sys_scope>
+        <sys_update_name>sys_user_role_7db56486db3953006976b3d0ef9619d3</sys_update_name>
+        <sys_updated_by>nikhil.bendre</sys_updated_by>
+        <sys_updated_on>2018-05-02 06:11:40</sys_updated_on>
+    </sys_user_role>
+</record_update>
