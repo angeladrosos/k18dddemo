@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Transactions" max_length="40" name="x_snc_stock_inform_transactions" type="collection">
         <element label="Company Name" max_length="40" name="company_name" type="string"/>
         <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="Price" max_length="20" name="price" type="decimal"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element label="Symbol" max_length="40" name="symbol" type="string"/>
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <index name="index">
